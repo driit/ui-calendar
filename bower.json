@@ -18,7 +18,7 @@
   "dependencies": {
     "angular": "~1.4.x",
     "jquery": "~2.1.4",
-    "fullcalendar": "https://github.com/driit/fullcalendar.git#1afa732c296683f1e407bf2f9bdfc3784fd427ae",
+    "fullcalendar": "https://github.com/driit/fullcalendar.git#f221632a8b420d48b98cdc1dd29a249625ad4840",
     "moment": "~2.10.3"
   },
   "devDependencies": {
